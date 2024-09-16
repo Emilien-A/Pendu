@@ -1,4 +1,3 @@
-a partir de ce code, crée un readme.txt normée selon les convention : import random
 import matplotlib.pyplot as plt
 
 def afficher_pendu(nb_erreurs):
